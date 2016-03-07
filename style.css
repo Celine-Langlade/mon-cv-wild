@@ -1,0 +1,54 @@
+*{
+	display: inline-block;
+}
+
+body {
+	background-color: rgb(104, 187, 285);
+
+}
+
+#left-box{
+	height: 1050px;
+	float: left;
+	margin-left: 1%;
+	background-color: rgb(9, 30, 45);
+	color: white;
+	width: 30%;
+}
+
+img{
+	margin-left: 20%;
+	margin-top: 10%;
+	width: 60%;
+}
+
+#right-box{
+	text-align: center;
+	float: right;
+	margin-right: 1%;
+	background-color: blue;
+	width: 65%;
+}
+
+#experience-box{
+	margin-top: 5%;
+	background-color: white;
+	width: 90%;
+
+}
+
+#studies-box{
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: white;
+	width: 90%;
+}
+
+#footer{
+	color: white;
+	background-color: blue;
+	width: 98%;
+	height: 100px;
+	margin-top: 2%;
+	margin-left: 1%;
+}
